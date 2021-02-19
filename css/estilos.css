@@ -1,7 +1,8 @@
 /* Estilos css */
 body {
-	background-color: #00f;
-	color: #fff;
+	background-color: green;
+	color: #red;
+	font-family: verdana;
 }
 h2 {
 	color: yellow;
